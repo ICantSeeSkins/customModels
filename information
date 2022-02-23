@@ -1,0 +1,9 @@
+[TEMPLATE]
+custom models <version>:
+ (item name) item:CMD
+ 
+CMD = CustomModelData
+
+[VERSIONS]
+custom models v1.0:
+ (double stone shovel) stone shovel:1
